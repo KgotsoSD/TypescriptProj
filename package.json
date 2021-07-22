@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KgotsoSD/TypescriptProj/issues"
   },
-  "homepage": "https://github.com/KgotsoSD/TypescriptProj#readme"
+  "homepage": "https://github.com/KgotsoSD/TypescriptProj#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
